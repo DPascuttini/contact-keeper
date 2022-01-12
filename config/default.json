@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Paski123:paski123@paskicluster.0b88z.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Paski123:paski123@paskicluster.0b88z.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
